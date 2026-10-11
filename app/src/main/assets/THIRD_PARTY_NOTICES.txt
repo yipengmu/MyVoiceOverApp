@@ -1,0 +1,15 @@
+Offline speech recognition components
+=====================================
+
+sherpa-onnx 1.13.4
+Copyright (c) the sherpa-onnx contributors
+License: Apache License 2.0
+Source: https://github.com/k2-fsa/sherpa-onnx
+Bundled AAR SHA-256: 03f9c4df965f21c71269365a7951a7f23b5696fddd093fa318c80d65550ab780
+
+sherpa-onnx streaming Zipformer Chinese 14M model (2023-02-23)
+License: Apache License 2.0
+Source: https://huggingface.co/marcoyang/sherpa-ncnn-streaming-zipformer-zh-14M-2023-02-23
+Source archive SHA-256: 2cbd71b640d9c37d3784f29367333a4577b0398b62e9deeed418170b081cba8b
+
+Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
